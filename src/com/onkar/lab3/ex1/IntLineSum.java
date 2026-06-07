@@ -1,5 +1,4 @@
 package com.onkar.lab3.ex1;
-
 import java.util.Scanner;
 import java.util.StringTokenizer;
 

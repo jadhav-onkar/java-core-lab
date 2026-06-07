@@ -1,5 +1,4 @@
 package com.onkar.lab3.ex2;
-
 import java.util.Scanner;
 
 public class MirrorString {
