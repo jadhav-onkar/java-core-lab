@@ -1,0 +1,1 @@
+Java is a popular programming language used for developing desktop, web, and mobile applications. Threads allow a program to perform multiple tasks simultaneously. In this example, a thread copies data from one file to another while displaying a message after every ten characters copied. Multithreading improves the responsiveness and efficiency of applications.
