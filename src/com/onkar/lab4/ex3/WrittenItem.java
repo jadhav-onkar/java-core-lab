@@ -1,0 +1,24 @@
+package com.onkar.lab4.ex3;
+
+public abstract class WrittenItem extends Item {
+	private String author;
+	
+	public WrittenItem(int id, String title, int copies, String author) {
+		super(id, title, copies);
+		this.author = author;
+	}
+	
+	public String getAuthor() {
+		return this.author;
+	}
+	
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+	
+	@Override()
+	public void print() {
+		super.print();
+		System.out.println("Author: " + author);
+	}
+}
